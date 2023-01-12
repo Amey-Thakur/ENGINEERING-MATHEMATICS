@@ -1,5 +1,5 @@
 # ENGINEERING-MATHEMATICS
- 👍🏻 GENG 8000 [SEMESTER I]
+ 👍🏻 GENG 8010 [SEMESTER I]
  
 ---
  
@@ -7,5 +7,7 @@
 
 ---
 
-## Week 1
+### Week 1
 
+ - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%201/Lecture%201.pdf)
+ 
