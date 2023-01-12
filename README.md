@@ -5,11 +5,11 @@
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/GENG%208010%20%E2%80%93%20Engineering%20Mathematics.pdf)**
  
- - [X] **[Advanced Engineering Mathematics]()**
+ - [X] **[Reference Book]()**
 
 ---
 
-### Week 1
+ >**[Week 1](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/Week%201)**
 
  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%201/Lecture%201.pdf)
  
