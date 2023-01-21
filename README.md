@@ -13,6 +13,12 @@
 
  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%201/Lecture%201.pdf)
  
+
+
+>**Week 2**
+
+ - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%202/Lecture%202.pdf)
+ 
 ---
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 <b> </p>
