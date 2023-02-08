@@ -21,6 +21,16 @@
  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%202/Lecture%202.pdf)
  
  
+ >**Week 3**
+
+ - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%203/Lecture%203.pdf)
+ 
+ 
+ >**Week 4**
+
+ - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%204/Lecture%204.pdf)
+ 
+ 
 ## Assignments
 
  >EM [Assignment 1](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/Assignments/EM%20Assignment%201) | [Dashboard](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Assignments/EM%20Assignment%201/EM%20Assignment%201%20Questions%20Dashboard.pdf) | [Grades](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Assignments/EM%20Assignment%201/Assignment%201%20-%20Grades%20for%20AMEY%20MAHENDRA%20THAKUR_%20GENG8010%20-%20Winter%202023%20Mehrdad%20Saif.pdf)
