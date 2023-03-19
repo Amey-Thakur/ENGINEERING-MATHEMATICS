@@ -38,13 +38,24 @@
 
 >**Week 6**
 
-- []()
+- [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%206/Lecture%206.pdf)
+
+>**Week 7**
+
+- [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%207/Lecture%207.pdf)
+
+>**Week 8**
+
+- [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%208/Lecture%208.pdf) | [Resonance Links](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%208/Lecture%208%20Resonance%20links.pdf)
 
 
 ## Assignments
 
  >EM [Assignment 1](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/Assignments/EM%20Assignment%201) | [Dashboard](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Assignments/EM%20Assignment%201/EM%20Assignment%201%20Questions%20Dashboard.pdf) | [Grades](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Assignments/EM%20Assignment%201/Assignment%201%20-%20Grades%20for%20AMEY%20MAHENDRA%20THAKUR_%20GENG8010%20-%20Winter%202023%20Mehrdad%20Saif.pdf)
+ 
+ >EM [Assignment 2](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/Assignments/EM%20Assignment%202) | [Dashboard](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Assignments/EM%20Assignment%202/EM%20Assignment%202%20Questions%20Dashboard.pdf) | [Grades](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Assignments/EM%20Assignment%202/Assignment%202%20-%20Grades%20for%20AMEY%20MAHENDRA%20THAKUR_%20GENG8010%20-%20Winter%202023%20Mehrdad%20Saif.pdf)
 
+ >EM [Assignment 3]() | [Dashboard]() | [Grades]()
 
 ---
 
