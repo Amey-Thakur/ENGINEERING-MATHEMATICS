@@ -1,5 +1,6 @@
 # ENGINEERING-MATHEMATICS
- 👍🏻 GENG 8010 [SEMESTER I]
+
+ 👍🏻 GENG8010: EM [SEMESTER I]
  
 ---
  
@@ -9,44 +10,44 @@
 
 ---
 
-## Lecture Notes
+>Lecture Notes
 
- >**Week 1**
+- **Week 1**
 
- - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%201/Lecture%201.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%201/Lecture%201.pdf)
  
 
->**Week 2**
+- **Week 2**
 
- - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%202/Lecture%202.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%202/Lecture%202.pdf)
  
  
- >**Week 3**
+- **Week 3**
 
- - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%203/Lecture%203.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%203/Lecture%203.pdf)
  
  
- >**Week 4**
+- **Week 4**
 
- - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%204/Lecture%204.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%204/Lecture%204.pdf)
  
  
- >**Week 5**
+- **Week 5**
 
- - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%205/Lecture%205.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%205/Lecture%205.pdf)
 
 
->**Week 6**
+- **Week 6**
 
-- [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%206/Lecture%206.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%206/Lecture%206.pdf)
 
->**Week 7**
+- **Week 7**
 
-- [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%207/Lecture%207.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%207/Lecture%207.pdf)
 
->**Week 8**
+- **Week 8**
 
-- [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%208/Lecture%208.pdf) | [Resonance Links](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%208/Lecture%208%20Resonance%20links.pdf)
+  - [GENG 8010 - Part 1: Elements of Differential and Difference Equation](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%208/Lecture%208.pdf) | [Resonance Links](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/Week%208/Lecture%208%20Resonance%20links.pdf)
 
 
 ## Assignments
@@ -61,5 +62,4 @@
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To MEng ECE ✌🏻</p>
-
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
