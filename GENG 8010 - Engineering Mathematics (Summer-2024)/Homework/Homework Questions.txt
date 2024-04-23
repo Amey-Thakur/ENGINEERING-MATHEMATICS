@@ -1,0 +1,77 @@
+Homework:
+------------------------------------------------------------------
+Week-1:
+------------------------------------------------------------------
+Exercises 2.2
+
+question 2 (a, g, i) do method of the integration factor
+
+question 5(a)
+
+question 9(a,b)
+
+question 10(c)
+
+Exercises 2.4
+
+question 1(a, f, i, n)
+------------------------------------------------------------------
+Week-2:
+------------------------------------------------------------------
+For Variation of parameters, Exercise section 2.2, questions 2(a, g, i)
+
+For Exact equations, section 2.5 # 1(c,e,f, g, h)
+
+Project: Also do the following self-project about exact equation(just for yourself to learn):
+
+Look ate the section 2.5.2 in the textbook. It is about how you can sometimes make non-exact equations to exact equation using nice integration factors (called σ(x) and σ(y)). Then practice on questions in Section 2.5 # 5( d,e,f,g,h).
+------------------------------------------------------------------
+Week-3:
+------------------------------------------------------------------
+Homogeneous ODE with constant coefficients, section 3.3 #1 (a,f,h) and 2(d,e)
+------------------------------------------------------------------
+Week-4:
+------------------------------------------------------------------
+Exam Week
+------------------------------------------------------------------
+Week-5:
+------------------------------------------------------------------
+Section 3.7 # 2(a,b,c,e, i, j, k)
+------------------------------------------------------------------
+Week-6:
+------------------------------------------------------------------
+Dear Class
+
+To practice more on Taylor series:
+
+1) Find the Taylor series of f left parenthesis x right parenthesis equals x cubed e to the power of 4 x end exponent at center x=0,
+
+2) Use your Taylor series in questions (1) to find integral x cubed e to the power of 4 x end exponent d x
+
+3) Find the Taylor series of the functions that I said in the last class for center x=0.
+
+4) Find integral subscript 0 superscript 1 e to the power of x cubed end exponent d x in 3 decimals.
+
+While you could practice for Taylor series on Exercises 4.2 # 6(b), you can start to practice on power series:
+
+Exercises 4.2 # Q(7) a , c f, i, k
+------------------------------------------------------------------
+Week-7:
+------------------------------------------------------------------
+Reading Week
+------------------------------------------------------------------
+Week-8:
+------------------------------------------------------------------
+Dear Class
+
+Here is the HMW for Laplace Transformation from Textbook,
+
+Exercises 5.2 # 5
+
+Exercises 5.4 # (1) g, h, k, n, r, s,
+
+Also see the following video for more practice on more challenging Laplace inverse problems,
+
+https://www.youtube.com/watch?v=yz-_EKIzz80
+
+https://www.youtube.com/watch?v=rgAH5NhsSlE
