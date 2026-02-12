@@ -24,7 +24,7 @@ For Exact equations, section 2.5 # 1(c,e,f, g, h)
 
 Project: Also do the following self-project about exact equation(just for yourself to learn):
 
-Look ate the section 2.5.2 in the textbook. It is about how you can sometimes make non-exact equations to exact equation using nice integration factors (called σ(x) and σ(y)). Then practice on questions in Section 2.5 # 5( d,e,f,g,h).
+Look at the section 2.5.2 in the textbook. It is about how you can sometimes make non-exact equations to exact equation using nice integration factors (called σ(x) and σ(y)). Then practice on questions in Section 2.5 # 5( d,e,f,g,h).
 ------------------------------------------------------------------
 Week-3:
 ------------------------------------------------------------------
