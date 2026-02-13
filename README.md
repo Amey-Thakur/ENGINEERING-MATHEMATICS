@@ -228,9 +228,11 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Dr. Mehrdad Saif** for his rigorous and insightful instruction throughout the GENG 8010 Engineering Mathematics course. His expertise in differential equations and mathematical modeling provided a strong platform for my subsequent engineering research and coursework. His dedication to academic excellence and clarity in explaining complex mathematical structures is gratefully acknowledged.
+Grateful acknowledgment to **Dr. Mehrdad Saif** for his exceptional instruction in Engineering Mathematics, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of complex mathematical structures and analytical modeling, made the subject both accessible and engaging. His dedication to academic excellence and expert guidance established a strong platform for my subsequent engineering research and coursework. His scholarly contributions are gratefully acknowledged.
 
 Grateful acknowledgment to **Archit Konde** for his outstanding mathematical understanding and distinguished peer mentorship. His exceptional ability to explain complex mathematical concepts with clarity and precision significantly enhanced my learning experience throughout the Engineering Mathematics course. His dedication to academic excellence and scholarly support was fundamental to my mastery of advanced mathematical frameworks and conceptual development. His scholarly contributions and curated materials for the **Summer 2023** session are available in the [designated subdirectory of the repository](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)).
+
+Grateful acknowledgment to **Jason Horn**, **[Writing Support Desk](https://github.com/Amey-Thakur/WRITING-SUPPORT)**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
