@@ -232,8 +232,6 @@ Grateful acknowledgment to **Dr. Mehrdad Saif** for his exceptional instruction 
 
 Grateful acknowledgment to **Archit Konde** for his outstanding mathematical understanding and distinguished peer mentorship. His exceptional ability to explain complex mathematical concepts with clarity and precision significantly enhanced my learning experience throughout the Engineering Mathematics course. His dedication to academic excellence and scholarly support was fundamental to my mastery of advanced mathematical frameworks and conceptual development. His scholarly contributions and curated materials for the **Summer 2023** session are available in the [designated subdirectory of the repository](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)).
 
-Grateful acknowledgment to **Jason Horn**, **[Writing Support Desk](https://github.com/Amey-Thakur/WRITING-SUPPORT)**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
-
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
