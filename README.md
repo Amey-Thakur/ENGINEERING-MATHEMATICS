@@ -88,7 +88,7 @@ Study materials and planning resources for effective academic progression:
 |:-:|:---|:---|
 | 1 | [Course Syllabus](GENG%208010%20–%20Engineering%20Mathematics.pdf) | Official course outcomes and assessment specifications |
 | 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202023.pdf) | Enrollment record and pedagogical timeline |
-| 3 | [Resources](GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)/Resources/) | Supplementary instructional datasets and mathematical tools |
+| 3 | [GENG 8010 - Engineering Mathematics (Summer-2023) - Archit Konde](GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)/Resources/) | Summer 2023 session preparation and peer instructional materials |
 | 4 | [WileyPLUS](WileyPLUS/) | Digital learning platform assessments and practice modules |
 
 ---
@@ -268,7 +268,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Dr. Mehrdad Saif** for his exceptional teaching in Engineering Mathematics, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his careful explanation of complex ideas, made the subject both accessible and engaging. His in-class quizzes were particularly thought-provoking and analytically rigorous, fostering an interactive learning environment that strengthened my professional mathematical proficiency.
+Grateful acknowledgment to **Archit Konde** for his outstanding mathematical understanding and distinguished peer mentorship. His exceptional ability to explain complex mathematical concepts with clarity and precision significantly enhanced my learning experience throughout the GENG 8010 course. His dedication to academic excellence and scholarly support was fundamental to my mastery of advanced mathematical frameworks and conceptual development.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
