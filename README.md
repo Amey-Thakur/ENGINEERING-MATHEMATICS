@@ -88,7 +88,7 @@ Study materials and planning resources for effective academic progression:
 |:-:|:---|:---|
 | 1 | [Course Syllabus](GENG%208010%20–%20Engineering%20Mathematics.pdf) | Official course outcomes and assessment specifications |
 | 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202023.pdf) | Enrollment record and pedagogical timeline |
-| 3 | [GENG 8010 - Engineering Mathematics (Summer-2023) - Archit Konde](GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)/Resources/) | Summer 2023 session preparation and peer instructional materials |
+| 3 | [GENG 8010 - Engineering Mathematics (Summer-2023) - Archit Konde](GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)/) | Summer 2023 session preparation and peer instructional materials |
 | 4 | [WileyPLUS](WileyPLUS/) | Digital learning platform assessments and practice modules |
 
 ---
