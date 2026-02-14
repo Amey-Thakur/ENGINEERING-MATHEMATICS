@@ -125,7 +125,7 @@ A granular record of analytical in-class assessments and tactical mathematical p
 
 ---
 
-### Lecture Notes
+## Lecture Notes
 A comprehensive archival log documenting pedagogical discourse, session timelines, and applied mathematical theory for the Winter 2023 session.
 
 > [!TIP]
