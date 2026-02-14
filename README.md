@@ -156,8 +156,6 @@ The following examinations represent key assessment milestones in Engineering Ma
 
 ### Graduate Examination Records
 
-The following examinations represent key assessment milestones in Engineering Mathematics, documenting technical proficiency through mid-term evaluations and the final summative assessment.
-
 | # | Examination Milestone | Date | Archival Deliverables |
 | :---: | :--- | :---: | :--- |
 | 1 | **Midterm Examination 01** | February 14, 2023 | • [Examination Information Guide](Midterm%20Exam%201/GENG8010_30_Exam1_Info.pdf)<br>• [Question 1 Answer Sheet](Midterm%20Exam%201/Q-1_110107589.pdf)<br>• [Question 2 Answer Sheet](Midterm%20Exam%201/Q-2_110107589.pdf)<br>• [Question 3 Answer Sheet](Midterm%20Exam%201/Q-3_110107589.pdf)<br>• [Digital Submission Record](Midterm%20Exam%201/Midterm%20Exam%20Submission.png)<br>• [Quiz Submission Receipt - Part 1](Midterm%20Exam%201/Quiz%20Submission%20-%20Midterm%20Exam%20-%20Part%201.png)<br>• [Quiz Submission Receipt - Part 2](Midterm%20Exam%201/Quiz%20Submission%20-%20Midterm%20Exam%20-%20Part%202.png) |
