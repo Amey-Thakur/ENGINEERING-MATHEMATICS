@@ -93,7 +93,7 @@ Study materials and planning resources for effective academic progression:
 ---
 
 ### Assignments
-A systematic archival registry documenting technical proficiency, analytical rigor, and mathematical modeling standards across the Winter 2023 session.
+A systematic archival registry documenting technical proficiency, analytical rigor, and mathematical modeling standards across the **Winter 2023** session.
 
 | # | Assignment | Question Dashboard | Overview Dashboard | Score Card Dashboard | Date | Marks |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -115,7 +115,7 @@ Direct access to digitized visual solutions for individual assignment questions:
 ---
 
 ### Quizzes
-A granular record of analytical in-class assessments and tactical mathematical proofs conducted during the Winter 2023 session.
+A granular record of analytical in-class assessments and tactical mathematical proofs conducted during the **Winter 2023** session.
 
 | # | Quiz | Topics | Date |
 | :---: | :---: | :--- | :---: |
@@ -126,7 +126,7 @@ A granular record of analytical in-class assessments and tactical mathematical p
 ---
 
 ## Lecture Notes
-A comprehensive archival log documenting pedagogical discourse, session timelines, and applied mathematical theory for the Winter 2023 session.
+A comprehensive archival log documenting pedagogical discourse, session timelines, and applied mathematical theory for the **Winter 2023** session.
 
 > [!TIP]
 > Engineering mathematics is not merely the manipulation of symbols; it is the **language of physical reality**. Every module below focuses on the critical transition from **Physical Phenomena** to **Mathematical Abstraction**, enabling the precise modeling and analysis of complex engineering systems.
