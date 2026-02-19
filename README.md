@@ -60,7 +60,7 @@ As I progress in my career, I recognize that mathematical foundations remain ess
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Summer 2023 semester as part of my MEng degree requirements.
+> All materials were created, compiled, and organized by me during the **Winter 2023** semester as part of my MEng degree requirements.
 
 ---
 
@@ -141,7 +141,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 | 6 | **Week 06** | Higher order differential equations | February 14, 2023 | [View](Week%206/Lecture%206.pdf) |
 | 7 | **Week 07** | The non-homogeneous equation | February 28, 2023 | [View](Week%207/Lecture%207.pdf) |
 | 8 | **Week 08** | Laplace transforms | March 07, 2023 | [View](Week%208/Lecture%208.pdf) |
-| 9 | **Week 09** | Difference equations | March 14, 2023 | [View](Week%209/Lectures%209%20&%2010a.pdf) |
+| 9 | **Week 09** | Difference equations | March 14, 2023 | [View](Week%209/Lectures%209%20%26%2010a.pdf) |
 | 10 | **Week 10** | Difference equations & Z transform | March 21, 2023 | [View](Week%2010/Lecture%2010b.pdf) |
 | 11 | **Week 11** | Z transform | March 28, 2023 | [View](Week%2011/Lecture%2011.pdf) |
 
@@ -170,7 +170,7 @@ The following examinations represent key assessment milestones in Engineering Ma
 ## Syllabus
 
 > **[Official GENG 8010 Syllabus](GENG%208010%20–%20Engineering%20Mathematics.pdf)**  
-> Complete graduate-level syllabus document for the **Summer 2023** session, including detailed course outcomes, assessment criteria, and module specifications for Engineering Mathematics.
+> Complete graduate-level syllabus document for the **Winter 2023** session, including detailed course outcomes, assessment criteria, and module specifications for Engineering Mathematics.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Windsor academic portal, as curriculum specifications for Engineering Mathematics may undergo instructor-led adaptations across different sessions.
@@ -227,7 +227,7 @@ Grateful acknowledgment to **Dr. Mehrdad Saif** for his exceptional instruction 
 
 Grateful acknowledgment to **Archit Konde** for his outstanding mathematical understanding and distinguished peer mentorship. His exceptional ability to explain complex mathematical concepts with clarity and precision significantly enhanced my learning experience throughout the Engineering Mathematics course. His dedication to academic excellence and scholarly support was fundamental to my mastery of advanced mathematical frameworks and conceptual development. His scholarly contributions and curated materials for the **Summer 2023** session are available in the [designated subdirectory of the repository](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/tree/main/GENG%208010%20-%20Engineering%20Mathematics%20(Summer-2023)).
 
-Grateful acknowledgment to **Jason Horn**, **[Writing Support Desk](https://github.com/Amey-Thakur/WRITING-SUPPORT)**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
+Grateful acknowledgment to **Jason Horn**, **[Writing Support Desk](https://github.com/Amey-Thakur/WRITING-SUPPORT)**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His analytical feedback and methodological rigor were instrumental in refining the intellectual depth and professional caliber of my academic work. This dedication to pedagogical excellence exemplifies the high standards of technical communication held by the University of Windsor.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
