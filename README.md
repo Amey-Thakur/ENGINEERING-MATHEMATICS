@@ -249,7 +249,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
 
   ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
-  **Computer Engineering (M.Eng) - University of Windsor**
+  **Computer Engineering (M.Eng.) - University of Windsor**
 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
